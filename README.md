@@ -24,13 +24,6 @@ following feeds:
 
 It’s free RESTful API which provides JSON data.
 
-To handle API requests we will need to build a simple server that would
-be responsible for:
-
--   Creating a request: formatting the URL and parameters
-
--   Handling the response, possibly performing some data mappings
-
 2 Pages
 -------
 
