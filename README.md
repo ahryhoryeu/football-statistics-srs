@@ -4,6 +4,8 @@ Football Statistics App “SRS”
 1 Source of information
 -----------------------
 
+### 1.1 Football API
+
 The main source of information is [Football Data
 API](http://api.football-data.org/documentation). We will need the
 following feeds:
@@ -24,10 +26,20 @@ following feeds:
 
 It’s free RESTful API which provides JSON data.
 
+### 1.2 Twitter API
+
+[Twitter API](https://dev.twitter.com/rest/public) will be used for retrieving tweets
+by club name. So the Search API will be used.To authenticate in this API you’ll need
+to use your own Twitter account. If you don’t have one, you’ll need to create one.
+
+Twitter has [embedded timelines functionality](https://dev.twitter.com/web/embedded-timelines/search).
+Using this functionality is strongly prohibited. You’ll need to fetch API data
+and render it in some way.
+
 2 Pages
 -------
 
-### 2.1 League table page.
+### 2.1 League table page
 
 League table page is the home page. Its mockup is presented on pic. 1:
 
