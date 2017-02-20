@@ -38,8 +38,7 @@ be responsible for:
 
 League table page is the home page. Its mockup is presented on pic. 1:
 
-![](media/league-table.png){width="6.721732283464567in"
-height="5.495138888888889in"}
+![](media/league-table.png)
 
 Pic. 1. League table page mockup
 
@@ -101,8 +100,7 @@ page](#team-page).
 Teams page is a listing page for all the teams of a league. Its mockup
 is presented on pic. 2:
 
-![](media/teams.png){width="6.728472222222222in"
-height="5.5140343394575675in"}
+![](media/teams.png)
 
 Pic. 2. Teams page mockup
 
@@ -145,8 +143,7 @@ list.
 Team page represents detailed information about the Club. Its mockup is
 presented on the pic. 3:
 
-![](media/team.png){width="6.728472222222222in"
-height="5.82329615048119in"}
+![](media/team.png)
 
 Pic. 3. Team page mockup 1.
 
@@ -186,8 +183,7 @@ well with “No tweets found for &lt;% club name %&gt;” text.
 
 The “Fixtures” tab mockup is presented on pic. 4:
 
-![](media/fixtures.png){width="6.728472222222222in"
-height="5.846643700787402in"}
+![](media/fixtures.png)
 
 Pic. 4. Fixtures tab mockup.
 
